@@ -4,7 +4,7 @@ html, body {
   width: 100%;
   font-family: 'Poppins', sans-serif;
 
-  background-color: yellow;
+  background: linear-gradient(orange,#102345);
   text-align: center;
 }
 
